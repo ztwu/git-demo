@@ -5,6 +5,6 @@
 # @File    : test.py
 # @Software: PyCharm
 
-a = list([1,2,5,2,6,4,3,33333,555,444，666])
+a = list([1,2,5,2,6,4,3,33333,555,44])
 a = sorted(a,reverse=True)
 print(a)
